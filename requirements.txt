@@ -1,6 +1,5 @@
-jupyterlab 
-numpy 
+jupyterlab
 pandas
-matplotlib 
-seaborn 
-scipy
+pyarrow
+matplotlib
+seaborn
